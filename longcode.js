@@ -1,1 +1,1 @@
-<script>alert("This is a long piece of code");</script>
+alert("hello! this is from an external file and it's super long");
